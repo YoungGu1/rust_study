@@ -14,7 +14,7 @@ output.log
 *.log
 CLAUDE.md
 tsconfig.tsbuildinfo
-
+*/cargo.lock
 */target/*
 .*
 # Exclude specific dotfiles that we want to track.
